@@ -1,6 +1,6 @@
 {
   "name": "ulid-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple ULID CLI",
   "homepage": "https://github.com/vine77/ulid-cli",
   "author": "Nathan Ward",
