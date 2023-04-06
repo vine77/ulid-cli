@@ -2,6 +2,12 @@
 
 A simple CLI to output a [ULID](https://github.com/ulid/spec/blob/master/README.md) (Universally-Unique Lexicographically-Sortable Identifier). This simply wraps [ulidx](https://github.com/perry-mitchell/ulidx) in a CLI.
 
+## Installation
+
+```sh
+npm install -g ulid-cli
+```
+
 ## Usage
 
 Output a ULID, e.g. `01GX9C573DTWKWB10HTFBN6RVF`
