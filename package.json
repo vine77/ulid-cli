@@ -1,7 +1,7 @@
 {
   "name": "ulid-cli",
   "version": "0.1.2",
-  "description": "A simple ULID CLI",
+  "description": "A simple ULID CLI for generating unique IDs",
   "homepage": "https://github.com/vine77/ulid-cli",
   "author": "Nathan Ward",
   "license": "MIT",
